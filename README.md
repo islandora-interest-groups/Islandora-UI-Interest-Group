@@ -18,3 +18,4 @@ An interest group gathered around improving the Islandora user experience.
 ## Membership
 * Rosie Le Faive (UPEI)
 * Mike Nason (UNB)
+* Kevin Clair
