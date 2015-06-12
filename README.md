@@ -21,3 +21,6 @@ An interest group gathered around improving the Islandora user experience.
 * Kevin Clair
 * Melissa Anez (Islandora Foundation)
 * Mark Baggett (University of Tennessee, Knoxville)
+* Yoo Young Lee (Indiana University - Purdue University Indianapolis)
+* Gareth Dawson
+* Theresa Polk
