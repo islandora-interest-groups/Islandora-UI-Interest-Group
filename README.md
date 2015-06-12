@@ -20,3 +20,4 @@ An interest group gathered around improving the Islandora user experience.
 * Mike Nason (UNB)
 * Kevin Clair
 * Melissa Anez (Islandora Foundation)
+* Mark Baggett (University of Tennessee, Knoxville)
