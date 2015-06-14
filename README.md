@@ -10,7 +10,8 @@ An interest group gathered around improving the Islandora user experience.
 * The purpose of the Islandora UI Interest Group is to improve the user experience or repository users and managers.
 * Specific goals, activities, and outcomes may include:
   * Identifying common frustrations or hurdles to ease of use
-  * Proposing solutions as bug/documentation/feature tickets on Jira
+  * Proposing solutions as bug/documentation/feature tickets on Jira 
+  * Organizing codesprints to implement these improvements across the Islandora codebase
   * Improving and documenting the accessibility of Islandora out of the box
 * The interest group will meet once a month virtually (eg. via Skype)
 * The conveners will produce a report to be submitted to the Islandora Roadmap Committee following the IUIIG's meetings.
@@ -23,4 +24,5 @@ An interest group gathered around improving the Islandora user experience.
 * Mark Baggett (University of Tennessee, Knoxville)
 * Yoo Young Lee (Indiana University - Purdue University Indianapolis)
 * Gareth Dawson
-* Theresa Polk
+* Theresa Polk (University of Texas at Austin)
+* Jon Whipple (Design Counsel)
