@@ -26,3 +26,4 @@ An interest group gathered around improving the Islandora user experience.
 * Gareth Dawson
 * Theresa Polk (University of Texas at Austin)
 * Jon Whipple (Design Counsel)
+* Tao Zhao (University of Oklahoma)
