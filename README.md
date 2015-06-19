@@ -29,3 +29,4 @@ An interest group gathered around improving the Islandora user experience.
 * Tao Zhao (University of Oklahoma)
 * Tommy Keswick (Cherry Hill)
 * Stacy Allison-Cassin (York)
+* John Zhang (University of Oklahoma),
