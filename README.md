@@ -27,3 +27,5 @@ An interest group gathered around improving the Islandora user experience.
 * Theresa Polk (University of Texas at Austin)
 * Jon Whipple (Design Counsel)
 * Tao Zhao (University of Oklahoma)
+* Tommy Keswick (Cherry Hill)
+* Stacy Allison-Cassin (York)
