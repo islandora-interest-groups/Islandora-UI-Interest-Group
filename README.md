@@ -23,7 +23,7 @@ An interest group gathered around improving the Islandora user experience.
 * Melissa Anez (Islandora Foundation)
 * Mark Baggett (University of Tennessee, Knoxville)
 * Yoo Young Lee (Indiana University - Purdue University Indianapolis)
-* Gareth Dawson
+* Gareth Dawson (University of Cape Town Libraries)
 * Theresa Polk (University of Texas at Austin)
 * Jon Whipple (Design Counsel)
 * Tao Zhao (University of Oklahoma)
