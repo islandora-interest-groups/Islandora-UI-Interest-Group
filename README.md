@@ -31,3 +31,4 @@ An interest group gathered around improving the Islandora user experience.
 * Stacy Allison-Cassin (York)
 * John Zhang (University of Oklahoma)
 * David Kemper (McMaster)
+* Paul Cummins (University of Tennessee)
