@@ -33,3 +33,4 @@ An interest group gathered around improving the Islandora user experience.
 * David Kemper (McMaster)
 * Paul Cummins (University of Tennessee)
 * Favenzio Calvo (Florida State University)
+* Lingling Jiang (University of Toronto Scarborough)
