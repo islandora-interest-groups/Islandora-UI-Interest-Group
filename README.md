@@ -33,3 +33,7 @@ An interest group gathered around improving the Islandora user experience.
 * David Kemper (McMaster)
 * Paul Cummins (University of Tennessee)
 * Favenzio Calvo (Florida State University)
+* Lingling Jiang (University of Toronto Scarborough)
+
+## Useful Links
+* [JIRA issues tagged UIIG](https://jira.duraspace.org/issues?jql=project%20%3D%20ISLANDORA%20AND%20status%20%3D%20Open%20AND%20labels%20%3D%20UIIG)
