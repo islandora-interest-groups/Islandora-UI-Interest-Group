@@ -16,6 +16,9 @@ An interest group gathered around improving the Islandora user experience.
 * The interest group will meet once a month virtually (eg. via Skype)
 * The conveners will produce a report to be submitted to the Islandora Roadmap Committee following the IUIIG's meetings.
 
+## Meetings
+* The group meets at **2pm Eastern Time on the 4th Wednesday of the month** on Skype. To join, add rosemary.lib (Rosie Le Faive) on skype and indicate you'd like to join the UIIG.
+
 ## Membership
 * Rosie Le Faive (UPEI)
 * Mike Nason (UNB)
