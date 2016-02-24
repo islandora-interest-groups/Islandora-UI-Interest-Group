@@ -1,6 +1,9 @@
 # Islandora-UI-Interest-Group
 An interest group gathered around improving the Islandora user experience.
 
+# Hiatus
+As of Feb 24, 2106, this interest group is on hiatus (not actively meeting). 
+
 ## Conveners
 * [Rosie Le Faive](https://github.com/rosiel) (University of Prince Edward Island)
 * Co-conveners welcome!
