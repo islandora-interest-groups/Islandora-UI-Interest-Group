@@ -26,4 +26,5 @@ As of June 1, 2017, this interest group has been reconvened and meetings will st
 
 ## Membership
 * Rosie Le Faive (UPEI)
-* Favenzio Calvo (FSU)An interest group for shaping the Islandora user experience with Drupal 8 and Fedora 4 
+* Favenzio Calvo (FSU)
+* (want to join? Add your name in a Pull Request or contact a convener)
