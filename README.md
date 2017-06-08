@@ -9,6 +9,9 @@ As of June 1, 2017, this interest group has been reconvened and meetings will st
 * [Favenzio Calvo](https://github.com/Favenzio) (Florida State University)
 * Co-conveners welcome!
 
+## How to participate
+* [Join Skype Group](https://join.skype.com/qEZdTTFrncpc)
+
 ## Terms of Reference
 * The name of this Islandora Interest Group is the **Islandora UI Interest Group (IUIIG)**
 * The purpose of the Islandora UI Interest Group is to help shape and design the Islandora user experience.
