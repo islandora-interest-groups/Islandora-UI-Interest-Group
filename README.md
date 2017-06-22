@@ -30,4 +30,5 @@ As of June 1, 2017, this interest group has been reconvened and meetings will st
 ## Membership
 * Rosie Le Faive (UPEI)
 * Favenzio Calvo (FSU)
+* Don Richards (UTK)
 * (want to join? Add your name in a Pull Request or contact a convener)
